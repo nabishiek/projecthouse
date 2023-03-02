@@ -12,6 +12,7 @@ public Sample(int age) {
 public Sample(String name,long mob) {
 	this();
 	System.out.println("chilg string and long para cons");
+	System.out.println("code adding");
 }
 public static void main(String[] args) {
 	Sample s= new Sample(29);
